@@ -67,6 +67,7 @@ function megaFriend(name) {
     var names = '';
     for (var i = 0; i < name.length; i++) {
         var element = name[i].length;
+        // find max length of string
         if (max < element) {
             temp = max;
             max = element;
