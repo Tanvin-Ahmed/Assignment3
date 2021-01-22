@@ -82,4 +82,4 @@ function megaFriend(name) {
         }
     }
     return names;
-    }
+}
